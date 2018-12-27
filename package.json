@@ -1,0 +1,55 @@
+{
+  "_from": "v-chateditor",
+  "_id": "v-chateditor@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-D5zWYi3zoK0w9G1IWpJyJu4EPeWFNPNgQbF8hhVG2MlBlCnAGJqZBswUau2ujSe6YrLCNJ7zozwFmFO3r2v3fg==",
+  "_location": "/v-chateditor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "v-chateditor",
+    "name": "v-chateditor",
+    "escapedName": "v-chateditor",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/v-chateditor/-/v-chateditor-2.0.0.tgz",
+  "_shasum": "8459d25515893d51fe497dea27b4ec65c3394b6a",
+  "_spec": "v-chateditor",
+  "_where": "C:\\Users\\Administrator\\Desktop\\vue-plugin-test\\test",
+  "author": {
+    "name": "lin940810",
+    "email": "13750565823@163.com"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "deprecated": false,
+  "description": "A Vue.js project",
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "v-chateditor",
+  "private": false,
+  "scripts": {
+    "build": "node build/build.js",
+    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "start": "npm run dev"
+  },
+  "version": "1.0.4"
+}
