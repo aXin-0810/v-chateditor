@@ -29,6 +29,9 @@ v-chateditor组件描述
 
 ```
 
+![Image text](https://raw.githubusercontent.com/aXin-0810/v-chateditor/master/src/assets/css/img/v-chateditor.jpg)
+
+
 更新日志
 =======
 
